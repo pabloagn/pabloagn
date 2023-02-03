@@ -1,0 +1,9 @@
+# .gitignore file for: pabloagn
+# Ignore .obsidian folder on main folder
+.obsidian/
+
+# Ignore desktop.ini
+desktop.ini
+
+# Ignore XFC raw files
+*.xfc
