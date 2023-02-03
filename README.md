@@ -6,26 +6,26 @@ I’m also passionate about literature, films, philosophy, aesthetics, art, fash
 ![personal image](https://pabloagn.com/wp-content/uploads/2023/01/1_MAIN_REDUCED.jpg)
 
 # Table of Contents
-- Specialties
-	- Categories
-	- Technologies
-		- Platforms
-		- Languages
-		- IDEs, Editors & Environments
-		- Visualization
-		- Version Control
-		- Productivity
-		- Graphic Design & Digital Asset Management
-- Index
-	- Blog
-	- Deep Dives
-	- Guided Projects
-	- Portfolio
-	- Documentation
-	- Showroom
-	- GitHub Gists
-- Pipeline
-- Get to Know Me
+- [Specialties](#specialties)
+	- [Categories](#1-categories)
+	- [Technologies](#2-technologies)
+		- [Platforms](#21-platforms)
+		- [Languages](#22-languages)
+		- [IDEs, Editors & Environments](#23-ides-editors-environments--terminal-emulators)
+		- [Visualization](#24-visualization)
+		- [Version Control](#25-version-control)
+		- [Productivity](#26-productivity)
+		- [Graphic Design & Digital Asset Management](#27-others)
+- [Index](#index)
+	- [Blog](#blog)
+	- [Deep Dives](#deep-dives)
+	- [Guided Projects](#guided-projects)
+	- [Portfolio](#portfolio)
+	- [Documentation](#documentation)
+	- [Showroom](#showroom)
+	- [GitHub Gists](#github-gists)
+- [Pipeline](#pipeline)
+- [Get to Know Me](#get-to-know-me)
 
 # Specialties
 Most of my work is focused on Data Science, Data Engineering, Data Analysis, Probability Theory & Statistics & Computer Science. You can see a more detailed breakdown below:
@@ -86,14 +86,26 @@ Below is a complete index of all the material I have, including my personal webs
 ## Blog
 Here you will find my collection of written articles and essays. Main topics are usually Statistics & Data Science oriented, but I may shift towards other tech-related subjects once in a while.
 
-[GitHub Repo](https://github.com/pabloagn/blog) | [Website Page](https://pabloagn.com/blog/)
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://github.com/pabloagn/blog">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <a href="https://pabloagn.com/blog">
+    <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
+</div>
 
 ## Deep Dives
 Here you will find my collection of articles related to specific modules, libraries, extensions and plugins.
 
 Each article discusses one of the components above, and consists of a detailed explanation & main features, along with hands-on examples.
 
-[GitHub Repo](https://github.com/pabloagn/deep-dives) | [Website Archive](https://pabloagn.com/deep-dives/)
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://github.com/pabloagn/deep-dives">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <a href="https://pabloagn.com/deep-dives">
+    <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
+</div>
 
 ## Guided Projects
 This section is about finding a cool project you’d like to replicate and getting your hands dirty.
@@ -102,29 +114,57 @@ Keep in mind that this section contains guided projects I design for educational
 
 Some projects are adaptations from existing ones, and others are my creations. Either way, the source is specified in each case, and credit is acknowledged where it’s due. Projects are classified by category/topic, difficulty, tech stack used, and approximate execution time. Also, suggested prerequisites are specified in case it applies.
 
-[GitHub Repo](https://github.com/pabloagn/guided-projects) | [Website Archive](https://pabloagn.com/guided-projects/)
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://github.com/pabloagn/guided-projects">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <a href="https://pabloagn.com/guided-projects">
+    <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
+</div>
 
 ## Portfolio
 Here you will find a list of all my projects & collaborations. You’ll also find links for the corresponding repositories and project licenses on each project. Projects are ordered descending by publish date. The start date & end date refer to the actual project design & execution.
 
 Keep in mind that this section refers to my personal portfolio; thus projects included are not explained step-by-step. If you’d like to build your own project using guidance, you can head to the [Guided Projects](https://pabloagn.com/guided-projects/) section. You can also visit my [showroom](https://pabloagn.github.io/), where I host a simpler index of my Guided Projects & Portfolio Projects.
 
-[GitHub Repo](https://github.com/pabloagn/portfolio-projects) | [Website Archive](https://pabloagn.com/portfolio/)
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://github.com/pabloagn/portfolio-projects">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <a href="https://pabloagn.com/portfolio/">
+    <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
+</div>
 
 ## Documentation
 Here you will find all the documentation I’ve created for the technology I use. I currently use Windows & Linux as main drivers, so most of the documentation will not be platform agnostic, though occasionally, I may include macOS-related content. Keep in mind that most cases are WIP. All documents are created using [Markdown](https://pabloagn.com/blog/what-is-markdown-and-why-is-it-useful/).
 
-[GitHub Repo](https://github.com/pabloagn/documentation) | [Website Archive](https://pabloagn.com/documentation/)
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://github.com/pabloagn/documentation">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <a href="https://pabloagn.com/documentation/">
+    <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
+</div>
 
 ## Showroom
 A portfolio showroom was created as a complement to my personal website. It's intended to provide a quick way to get to know my work.
 
-[GitHub Repo](https://github.com/pabloagn/pabloagn.github.io) | [Showroom](https://pabloagn.github.io)
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://github.com/pabloagn/pabloagn.github.io">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <a href="https://pabloagn.github.io">
+    <img src="https://img.shields.io/badge/Showroom-f2f2f2?style=for-the-badge"/></a>
+</div>
 
 ## GitHub Gists
 GitHub Gists are a quick and easy way to produce code snippets. I usually create gists for showcasing examples or as a way to archive relevant fragments of code that might turn in handy. 
 
-[GitHub Gists](https://gist.github.com/pabloagn)
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://gist.github.com/pabloagn">
+    <img src="https://img.shields.io/badge/GitHub%20Gists-f2f2f2?style=for-the-badge"/></a>
+</div>
 
 # Pipeline
 I always like to plan which projects I'm going to tackle next. Below you can find a Ghantt Diagram containing a pipeline.
@@ -132,7 +172,7 @@ I always like to plan which projects I'm going to tackle next. Below you can fin
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
+title Pipeline
 excludes weekdays 2014-01-10section A section
 Completed task            :done,    des1, 2014-01-06,2014-01-08
 Active task               :active,  des2, 2014-01-09, 3d
@@ -144,11 +184,10 @@ Future task2              :         des4, after des3, 5d
 
 # Get to Know Me
 
-
 <div id="images">
 	<p style="text-align:center;">
     <a href="https://pabloagn.com/about">
-    <img class="about" border="0" src="https://img.shields.io/badge/About-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <img src="https://img.shields.io/badge/About-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
     <a href="https://pabloagn.com/contact">
-    <img class="contact" border="0" src="https://img.shields.io/badge/Contact-f2f2f2?style=for-the-badge"/></a>
+    <img src="https://img.shields.io/badge/Contact-f2f2f2?style=for-the-badge"/></a>
 </div>
