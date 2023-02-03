@@ -24,7 +24,7 @@ I’m also passionate about literature, films, philosophy, aesthetics, art, fash
 	- [Documentation](#documentation)
 	- [Showroom](#showroom)
 	- [GitHub Gists](#github-gists)
-- [Pipeline](#pipeline)
+- [Project Pipeline](#project-pipeline)
 - [Get to Know Me](#get-to-know-me)
 
 # Specialties
@@ -166,7 +166,7 @@ GitHub Gists are a quick and easy way to produce code snippets. I usually create
     <img src="https://img.shields.io/badge/GitHub%20Gists-f2f2f2?style=for-the-badge"/></a>
 </div>
 
-# Pipeline
+# Project Pipeline
 I always like to plan which projects I'm going to tackle next. Below you can find a Ghantt Diagram containing a pipeline.
 
 ```mermaid
