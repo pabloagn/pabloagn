@@ -3,8 +3,6 @@ Hi, I’m Pablo, a Chemical Engineer, Data Scientist and Linux enthusiast. I lik
 
 I’m also passionate about literature, films, philosophy, aesthetics, art, fashion, design, natural sciences and scents.
 
-![personal image](https://pabloagn.com/wp-content/uploads/2023/01/1_MAIN_REDUCED.jpg)
-
 # Table of Contents
 - [Specialties](#specialties)
 	- [Categories](#1-categories)
