@@ -3,6 +3,8 @@ Hi, I’m Pablo, a Chemical Engineer, Data Scientist and Linux enthusiast. I lik
 
 I’m also passionate about literature, films, philosophy, aesthetics, art, fashion, design, natural sciences and scents.
 
+[![made-with badge](https://img.shields.io/static/v1?label=Made%20with&message=Obsidian&color=7d5bed&logo=obsidian&labelColor=1a1a1a&style=flat)](https://obsidian.md/)
+
 # Table of Contents
 - [Specialties](#specialties)
 	- [Categories](#1-categories)
