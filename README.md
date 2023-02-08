@@ -172,12 +172,11 @@ I always like to plan which projects I'm going to tackle next. Below you can fin
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-title Pipeline
-excludes weekdays 2014-01-10section A section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2              :         des4, after des3, 5d
+title Project Pipeline
+exploratory-data-analysis                :done,    des1, 2023-02-01,2023-02-09
+command-line-interface-in-rust           :active,  des2, 2023-02-09, 10d
+markov-chains-toolbox                    :         des3, after des2, 10d
+shakespeare-style-emulator               :         des4, after des3, 10d
 ```
 
 [![made-with badge](https://img.shields.io/static/v1?label=Made%20with&message=Mermaid&color=d3427e&labelColor=1a1a1a&style=flat)](https://mermaid.js.org/)
