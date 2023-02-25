@@ -15,16 +15,14 @@ I’m also passionate about literature, films, philosophy, aesthetics, art, fash
 		- [Visualization](#24-visualization)
 		- [Version Control](#25-version-control)
 		- [Productivity](#26-productivity)
-		- [Graphic Design & Digital Asset Management](#27-others)
+		- [Others](#27-others)
 - [Index](#index)
 	- [Blog](#blog)
 	- [Deep Dives](#deep-dives)
 	- [Guided Projects](#guided-projects)
 	- [Portfolio](#portfolio)
 	- [Documentation](#documentation)
-	- [Showroom](#showroom)
 	- [GitHub Gists](#github-gists)
-- [Project Pipeline](#project-pipeline)
 - [Get to Know Me](#get-to-know-me)
 
 # Specialties
@@ -81,7 +79,7 @@ Below are all the technologies I've adopted as daily drivers, although I ocassio
 You can also consult the [Technology Sphere](https://pabloagn.com/technologies/) for a full breakdown.
 
 # Index
-Below is a complete index of all the material I have, including my personal website, GitHub repositories, GitHub Gists and a Project Showroom.
+Below is a complete index of all the material I have, including my personal website, GitHub repositories, and GitHub Gists.
 
 ## Blog
 Here you will find my collection of written articles and essays. Main topics are usually Statistics & Data Science oriented, but I may shift towards other tech-related subjects once in a while.
@@ -110,7 +108,7 @@ Each article discusses one of the components above, and consists of a detailed e
 ## Guided Projects
 This section is about finding a cool project you’d like to replicate and getting your hands dirty.
 
-Keep in mind that this section contains guided projects I design for educational purposes. You can head to the [Portfolio](https://pabloagn.com/portfolio/) section if you’d like to view my Project Portfolio. You can also visit my [showroom](https://pabloagn.github.io/), where I host a simpler index of my Guided Projects & Portfolio Projects.
+Keep in mind that this section contains guided projects I design for educational purposes. You can head to the [Portfolio](https://pabloagn.com/portfolio/) section if you’d like to view my Project Portfolio. 
 
 Some projects are adaptations from existing ones, and others are my creations. Either way, the source is specified in each case, and credit is acknowledged where it’s due. Projects are classified by category/topic, difficulty, tech stack used, and approximate execution time. Also, suggested prerequisites are specified in case it applies.
 
@@ -125,7 +123,7 @@ Some projects are adaptations from existing ones, and others are my creations. E
 ## Portfolio
 Here you will find a list of all my projects & collaborations. You’ll also find links for the corresponding repositories and project licenses on each project. Projects are ordered descending by publish date. The start date & end date refer to the actual project design & execution.
 
-Keep in mind that this section refers to my personal portfolio; thus projects included are not explained step-by-step. If you’d like to build your own project using guidance, you can head to the [Guided Projects](https://pabloagn.com/guided-projects/) section. You can also visit my [showroom](https://pabloagn.github.io/), where I host a simpler index of my Guided Projects & Portfolio Projects.
+Keep in mind that this section refers to my personal portfolio; thus projects included are not explained step-by-step. If you’d like to build your own project using guidance, you can head to the [Guided Projects](https://pabloagn.com/guided-projects/) section. 
 
 <div id="images">
 	<p style="text-align:center;">
@@ -146,17 +144,6 @@ Here you will find all the documentation I’ve created for the technology I use
     <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
 </div>
 
-## Showroom
-A portfolio showroom was created as a complement to my personal website. It's intended to provide a quick way to get to know my work.
-
-<div id="images">
-	<p style="text-align:center;">
-    <a href="https://github.com/pabloagn/pabloagn.github.io">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
-    <a href="https://pabloagn.github.io">
-    <img src="https://img.shields.io/badge/Showroom-f2f2f2?style=for-the-badge"/></a>
-</div>
-
 ## GitHub Gists
 GitHub Gists are a quick and easy way to produce code snippets. I usually create gists for showcasing examples or as a way to archive relevant fragments of code that might turn in handy. 
 
@@ -165,21 +152,6 @@ GitHub Gists are a quick and easy way to produce code snippets. I usually create
     <a href="https://gist.github.com/pabloagn">
     <img src="https://img.shields.io/badge/GitHub%20Gists-f2f2f2?style=for-the-badge"/></a>
 </div>
-
-# Project Pipeline
-I always like to plan which projects I'm going to tackle next. Below you can find a Ghantt Diagram containing a pipeline.
-
-```mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title Project Pipeline
-exploratory-data-analysis                :done,    des1, 2023-02-01,2023-02-09
-command-line-interface-in-rust           :active,  des2, 2023-02-09, 10d
-markov-chains-toolbox                    :         des3, after des2, 10d
-shakespeare-style-emulator               :         des4, after des3, 10d
-```
-
-[![made-with badge](https://img.shields.io/static/v1?label=Made%20with&message=Mermaid&color=d3427e&labelColor=1a1a1a&style=flat)](https://mermaid.js.org/)
 
 # Get to Know Me
 
