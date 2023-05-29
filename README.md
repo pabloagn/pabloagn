@@ -6,23 +6,27 @@ I’m also passionate about literature, films, philosophy, aesthetics, art, fash
 [![made-with badge](https://img.shields.io/static/v1?label=Made%20with&message=Obsidian&color=7d5bed&logo=obsidian&labelColor=1a1a1a&style=flat)](https://obsidian.md/)
 
 # Table of Contents
+- [About](#about)
+- [Table of Contents](#table-of-contents)
 - [Specialties](#specialties)
-	- [Categories](#1-categories)
-	- [Technologies](#2-technologies)
-		- [Platforms](#21-platforms)
-		- [Languages](#22-languages)
-		- [IDEs, Editors & Environments](#23-ides-editors-environments--terminal-emulators)
-		- [Visualization](#24-visualization)
-		- [Version Control](#25-version-control)
-		- [Productivity](#26-productivity)
-		- [Others](#27-others)
+  - [1. Categories](#1-categories)
+  - [2. Technologies](#2-technologies)
+    - [2.1 Platforms](#21-platforms)
+    - [2.2 Languages](#22-languages)
+    - [2.3 IDEs, Editors, Environments \& Terminal Emulators](#23-ides-editors-environments--terminal-emulators)
+    - [2.4 Visualization](#24-visualization)
+    - [2.5 Version Control](#25-version-control)
+    - [2.6 Productivity](#26-productivity)
+    - [2.7 Others](#27-others)
 - [Index](#index)
-	- [Blog](#blog)
-	- [Deep Dives](#deep-dives)
-	- [Guided Projects](#guided-projects)
-	- [Portfolio](#portfolio)
-	- [Documentation](#documentation)
-	- [GitHub Gists](#github-gists)
+  - [Blog](#blog)
+  - [Deep Dives](#deep-dives)
+  - [Guided Projects](#guided-projects)
+  - [Portfolio](#portfolio)
+  - [Documentation](#documentation)
+  - [Amulets](#amulets)
+  - [Series](#series)
+  - [GitHub Gists](#github-gists)
 - [Get to Know Me](#get-to-know-me)
 
 # Specialties
@@ -86,7 +90,7 @@ Here you will find my collection of written articles and essays. Main topics are
 
 <div id="images">
 	<p style="text-align:center;">
-    <a href="https://github.com/pabloagn/blog">
+    <a href="https://github.com/ajourneythroughdatascience/blog">
     <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
     <a href="https://pabloagn.com/blog">
     <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
@@ -95,11 +99,11 @@ Here you will find my collection of written articles and essays. Main topics are
 ## Deep Dives
 Here you will find my collection of articles related to specific modules, libraries, extensions and plugins.
 
-Each article discusses one of the components above, and consists of a detailed explanation & main features, along with hands-on examples.
+Each article discusses one of the components above and consists of a detailed explanation & main features, along with hands-on examples.
 
 <div id="images">
 	<p style="text-align:center;">
-    <a href="https://github.com/pabloagn/deep-dives">
+    <a href="https://github.com/ajourneythroughdatascience/deep-dives">
     <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
     <a href="https://pabloagn.com/deep-dives">
     <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
@@ -114,7 +118,7 @@ Some projects are adaptations from existing ones, and others are my creations. E
 
 <div id="images">
 	<p style="text-align:center;">
-    <a href="https://github.com/pabloagn/guided-projects">
+    <a href="https://github.com/ajourneythroughdatascience/guided-projects">
     <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
     <a href="https://pabloagn.com/guided-projects">
     <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
@@ -127,7 +131,7 @@ Keep in mind that this section refers to my personal portfolio; thus projects in
 
 <div id="images">
 	<p style="text-align:center;">
-    <a href="https://github.com/pabloagn/portfolio-projects">
+    <a href="https://github.com/ajourneythroughdatascience/portfolio-projects">
     <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
     <a href="https://pabloagn.com/portfolio/">
     <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
@@ -138,9 +142,31 @@ Here you will find all the documentation I’ve created for the technology I use
 
 <div id="images">
 	<p style="text-align:center;">
-    <a href="https://github.com/pabloagn/documentation">
+    <a href="https://github.com/ajourneythroughdatascience/documentation">
     <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
     <a href="https://pabloagn.com/documentation/">
+    <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
+</div>
+
+## Amulets
+Here you will find a collection of hands-on programming challenges, including a variety of languages & technologies such as Python, Julia, Scala, R, SQL, DAX, RegEx, and more.
+
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://github.com/ajourneythroughdatascience/amulets">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <a href="https://pabloagn.com/amulets/">
+    <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
+</div>
+
+## Series
+Here you will find curated collections of Blogs, Deep Dives, Guided Projects, Portfolio Projects and/or Documentation grouped by topic.
+
+<div id="images">
+	<p style="text-align:center;">
+    <a href="https://github.com/ajourneythroughdatascience/series">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+    <a href="https://pabloagn.com/series/">
     <img src="https://img.shields.io/badge/Website%20Archive-f2f2f2?style=for-the-badge"/></a>
 </div>
 
