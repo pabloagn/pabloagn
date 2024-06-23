@@ -5,5 +5,8 @@
 # Ignore desktop.ini
 desktop.ini
 
+# Ignore legacy
+README.legacy.md
+
 # Ignore XFC raw files
 *.xfc
