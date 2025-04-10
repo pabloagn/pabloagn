@@ -10,3 +10,6 @@ README.legacy.md
 
 # Ignore XFC raw files
 *.xfc
+
+*.psb
+*.psd

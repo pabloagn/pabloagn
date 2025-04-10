@@ -12,18 +12,14 @@
 <div align="center">
     <div id="images">
         <p style="text-align:center;">
-        <a href="https://pabloagn.com/about">
-        <img src="https://img.shields.io/badge/About-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
-        <a href="https://pabloagn.com/contact">
-        <img src="https://img.shields.io/badge/Contact-f2f2f2?style=for-the-badge"/></a>
+        <a href="https://pabloagn.com/">
+        <img src="https://img.shields.io/badge/Website-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+        <a href="https://www.linkedin.com/in/pablo-aguirre-nunez/">
+        <img src="https://img.shields.io/badge/LinkedIn-f2f2f2?style=for-the-badge"/></a>&nbsp&nbsp
+        <a href="mailto:main@pabloagn.com">
+        <img src="https://img.shields.io/badge/Email-f2f2f2?style=for-the-badge"/></a>
     </div>
 </div>
-
-
-<!-- <div align="center">
-
-  [Website](https://pabloagn.com) ◆ [LinkedIn](https://www.linkedin.com/in/pablo-aguirre-nunez/) ◆ [Email](mailto:main@pabloagn.com)
-</div> -->
 
 <br/>
 <div align="center">───────  §  ───────</div>
@@ -31,154 +27,200 @@
 
 ## I. Core Technical Domains
 
-<em>My expertise spans the full data lifecycle, with a focus on building scalable, reliable, and intelligent systems.</em>
-
-<pre>
-DATA ENGINEERING & MLOPS
-┌─────────────────────────────┬───────────────────────────────┬────────────────────────────────┐
-│ Architecture & Processing:  │ Storage & Infrastructure:     │ Operations:                    │
-│ Spark (Scala/Python),       │ Lakehouse (Delta/Iceberg),    │ Docker, Kubernetes, Kubeflow,  │
-│ Kafka, Flink, Airflow,      │ Vector DBs (Qdrant), Cloud    │ CI/CD, GitOps, Feature Stores, │
-│ ClickHouse, Databricks      │ (AWS/Azure/GCP), IaC (NixOS)  │ Data Quality/Observability     │
-└─────────────────────────────┴───────────────────────────────┴────────────────────────────────┘
-</pre>
-
-<pre>
-MACHINE LEARNING & AI
-┌─────────────────────────────┬───────────────────────────────┬────────────────────────────────┐
-│ Modeling & Frameworks:      │ Specializations:              │ Methodology:                   │
-│ TensorFlow, PyTorch,        │ NLP (Transformers),           │ Experiment Tracking (MLflow),  │
-│ Scikit-learn, XGBoost,      │ Generative AI (LangChain,     │ Versioning (DVC),              │
-│ Pandas, NumPy               │ LLMOps), Bayesian Methods     │ Production Deployment          │
-└─────────────────────────────┴───────────────────────────────┴────────────────────────────────┘
-</pre>
-
-<pre>
-PROGRAMMING & SYSTEMS
-┌─────────────────────────────────────────────┬─────────────────────────────────────────────────┐
-│ Languages:                                  │ Foundations:                                    │
-│ Python, Scala (Functional Emphasis),        │ Linux System Administration,                    │
-│ Rust, SQL, C++, Bash/Zsh                    │ Distributed Systems, Software Design Principles │
-└─────────────────────────────────────────────┴─────────────────────────────────────────────────┘
-</pre>
-
-<br/>
-
-<div align="center">
-  <pre>
-  ╭──────────────────────────────────────────╮
-  │                    §                     │
-  ╰──────────────────────────────────────────╯
-  </pre>
-</div>
-
-<br/>
-
-## II. Project Ecosystem & Organizations
-
-<em>My public work and development efforts are organized across the following profiles:</em>
+My expertise spans the full data lifecycle, with a focus on building scalable, reliable, and intelligent systems.
 
 <table>
   <tr>
-    <td width="40%" align="right"><a href="https://github.com/pabloagn"><b>pabloagn</b></a></td>
-    <td width="60%" align="left"><em>Core configurations, standalone projects & utilities, experimental code</em></td>
+    <th colspan="3"><b>Data Engineering & MLOps</b></th>
   </tr>
   <tr>
-    <td align="right"><a href="https://github.com/Phantomklange"><b>Phantomklänge</b></a></td>
-    <td align="left"><em>Primary development hub for the <b>Phantom Suite</b>, an integrated system for personal knowledge management</em></td>
+    <td><b>Architecture & Processing</b></td>
+    <td><b>Storage & Infrastructure</b></td>
+    <td><b>Operations</b></td>
   </tr>
   <tr>
-    <td align="right"><a href="https://github.com/Sanctum-Black"><b>Sanctum.Black</b></a></td>
-    <td align="left"><em>Technical articles and content published on <a href="https://pabloagn.com">pabloagn.com</a></em></td>
+    <td><b>Spark</b> (Scala/Python), <b>Kafka</b>, Flink, <b>Airflow</b>, ClickHouse, Databricks</td>
+    <td>Lakehouse (Delta/Iceberg), Vector DBs (Qdrant), <b>Cloud</b> (AWS/Azure/GCP), IaC (<b>NixOS</b>, Terraform)</td>
+    <td><b>Docker</b>, Kubernetes, Kubeflow, CI/CD, GitOps, Feature Stores, Data Quality/Observability</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="3"><b>Machine Learning & AI</b></th>
+  </tr>
+  <tr>
+    <td><b>Modeling & Frameworks</b></td>
+    <td><b>Specializations</b></td>
+    <td><b>Methodology</b></td>
+  </tr>
+  <tr>
+    <td>TensorFlow, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy</td>
+    <td>NLP (Transformers), Generative AI (LangChain, LLMOps), Optimization, Bayesian Methods</td>
+    <td>Experiment Tracking (MLflow), Versioning (DVC), Production Deployment</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2"><b>Programming & Systems</b></th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><b>Foundations</b></td>
+  </tr>
+  <tr>
+    <td><b>Python</b>, <b>Scala</b> (Functional Emphasis), <b>Rust</b>, SQL, C++, Bash/Zsh, Haskell, Julia</td>
+    <td>Linux System Administration, Distributed Systems Concepts, Software Design Principles</td>
   </tr>
 </table>
 
 <br/>
+<div align="center">───────  §  ───────</div>
+<br/>
+
+
+## II. Project Ecosystem & Organizations
+
+I work across three main profiles:
+
 
 <div align="center">
-  <pre>
-  ╭──────────────────────────────────────────╮
-  │                    §                     │
-  ╰──────────────────────────────────────────╯
-  </pre>
+  <table cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td width="33%" align="center" valign="top" style="padding: 20px;">
+        <div>
+          <a href="https://github.com/pabloagn">
+            <img src="https://img.shields.io/badge/GITHUB-PABLOAGN-2C2D30?style=flat-square&logo=github&logoColor=white" alt="pabloagn" />
+          </a>
+        </div>
+        <br/>
+        <p align="center">
+          Personal workspace: Core configurations, standalone projects, and experimental code
+        </p>
+      </td>
+      <td width="33%" align="center" valign="top" style="padding: 20px;">
+        <div>
+          <a href="https://github.com/Phantomklange">
+            <img src="https://img.shields.io/badge/GITHUB-PHANTOMKLÄNGE-2C2D30?style=flat-square&logo=github&logoColor=white" alt="Phantomklänge" />
+          </a>
+        </div>
+        <br/>
+        <p align="center">
+          Development hub for the <b>Phantom Suite</b>, an integrated personal knowledge management system
+        </p>
+      </td>
+      <td width="33%" align="center" valign="top" style="padding: 20px;">
+        <div>
+          <a href="https://github.com/Sanctum-Black">
+            <img src="https://img.shields.io/badge/GITHUB-SANCTUM.BLACK-2C2D30?style=flat-square&logo=github&logoColor=white" alt="Sanctum.Black" />
+          </a>
+        </div>
+        <br/>
+        <p align="center">
+          Repository organization for technical articles published on <a href="https://pabloagn.com">pabloagn.com</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<div align="center">───────  §  ───────</div>
+<br/>
+
+## III. Spotlight: Phantom Suite
+
+
+<div align="center">
+  <p><em>« An interconnected suite architected to create a unified, queryable digital knowledge base from diverse personal libraries, leveraging advanced data engineering, NLP, and database design. »</em></p>
 </div>
 
 <br/>
 
-## III. Spotlight: Phantom Suite <small><em>(Ongoing Initiative)</em></small>
-
-<p><em>« An interconnected suite architected to create a unified, queryable digital knowledge base from diverse personal libraries, leveraging advanced data engineering, NLP, and database design. »</em></p>
-
-<details>
-<summary><b>Foundation & Storage</b> (<code>phantom-db</code>) <a href="https://github.com/Phantomklange/phantom-db">Repository</a></summary>
-<br>
-PostgreSQL/SQLAlchemy knowledge graph for complex art/media metadata.
-<br><br>
-</details>
-
-<details>
-<summary><b>Ingestion & Processing</b> (<code>phantom-folio</code>) <a href="https://github.com/Phantomklange/phantom-folio">Repository</a></summary>
-<br>
-FastAPI/Celery pipeline converting documents (PDF/OCR → EPUB).
-<br><br>
-</details>
-
-<details>
-<summary><b>Semantic Indexing</b> (<code>phantom-vector</code>) <a href="https://github.com/Phantomklange/phantom-vector">Repository</a></summary>
-<br>
-Engine using Sentence Transformers & Qdrant for semantic representation.
-<br><br>
-</details>
-
-<details>
-<summary><b>Query Interface</b> (<code>phantom-agent</code>) <em>Planned</em></summary>
-<br>
-RAG-based LLM interface for natural language interaction.
-<br><br>
-</details>
-
-<details>
-<summary><b>Exploration UI</b> (<code>phantom-explorer</code>) <em>Planned</em></summary>
-<br>
-Front-end application for navigating the knowledge suite.
-<br><br>
-</details>
+<table border="0" align="center" width="100%" cellspacing="10" cellpadding="10">
+  <tr>
+    <td width="50%" align="right" valign="middle" style="padding: 16px;">
+      <h3>Foundation & Storage</h3>
+      <code>phantom-db</code>
+    </td>
+    <td width="50%" align="left" valign="middle" style="padding: 16px;">
+      <p>PostgreSQL/SQLAlchemy knowledge graph for complex art/media metadata.</p>
+      <a href="https://github.com/Phantomklange/phantom-db">
+        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="right" valign="middle" style="padding: 16px;">
+      <h3>Ingestion & Processing</h3>
+      <code>phantom-folio</code>
+    </td>
+    <td width="50%" align="left" valign="middle" style="padding: 16px;">
+      <p>FastAPI/Celery pipeline converting documents (PDF/OCR → EPUB).</p>
+      <a href="https://github.com/Phantomklange/phantom-folio">
+        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="right" valign="middle" style="padding: 16px;">
+      <h3>Semantic Indexing</h3>
+      <code>phantom-vector</code>
+    </td>
+    <td width="50%" align="left" valign="middle" style="padding: 16px;">
+      <p>Engine using Sentence Transformers & Qdrant for semantic representation.</p>
+      <a href="https://github.com/Phantomklange/phantom-vector">
+        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="right" valign="middle" style="padding: 16px;">
+      <h3>Query Interface</h3>
+      <code>phantom-agent</code>
+    </td>
+    <td width="50%" align="left" valign="middle" style="padding: 16px;">
+      <p>RAG-based LLM interface for natural language interaction.</p>
+      <a href="https://github.com/Phantomklange/phantom-agent">
+        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="right" valign="middle" style="padding: 16px;">
+      <h3>Exploration UI</h3>
+      <code>phantom-explorer</code>
+    </td>
+    <td width="50%" align="left" valign="middle" style="padding: 16px;">
+      <p>Front-end application for navigating the knowledge suite.</p>
+      <a href="https://github.com/Phantomklange/phantom-explorer">
+        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-<div align="center">
-  <pre>
-  ╭──────────────────────────────────────────╮
-  │                    §                     │
-  ╰──────────────────────────────────────────╯
-  </pre>
-</div>
-
+<div align="center">───────  §  ───────</div>
 <br/>
 
 ## IV. Further Information
 
-<table>
-  <tr>
-    <td width="30%" align="right"><b>Technical Writing:</b></td>
-    <td width="70%" align="left">In-depth articles available at <a href="https://pabloagn.com"><b>pabloagn.com</b></a></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Code Snippets:</b></td>
-    <td align="left">Useful fragments and examples hosted at <a href="https://gist.github.com/pabloagn"><b>GitHub Gists</b></a></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Contact:</b></td>
-    <td align="left">For inquiries or collaboration, please use the links provided in the header</td>
-  </tr>
-</table>
-
+<br/>
+<div align="center">───────  §  ───────</div>
 <br/>
 
 <div align="center">
   <em>"The universe is made of stories, not of atoms." — Muriel Rukeyser</em>
 </div>
 
-<div align="right">
-  <code>Pablo Aguirre © 2024</code>
+<br/>
+
+<div align="center">
+  <img src="path/to/your/footer-image.png" alt="Footer image" width="100%" />
+</div>
+
+<div align="center">
+  <p>Pablo Aguirre © 2025</p>
 </div>
