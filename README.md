@@ -214,7 +214,7 @@ I work across three main profiles:
         <a href="https://pabloagn.com">
           <img src="https://img.shields.io/badge/WRITING-f2f2f2?style=flat-square&logo=markdown&logoColor=1a1a1a" alt="Technical Writing"/>
         </a>
-        <p>Technical blog</p>
+        <p>Portfolio & technical blog</p>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
         <a href="https://gist.github.com/pabloagn">
