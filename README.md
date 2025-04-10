@@ -214,22 +214,19 @@ I work across three main profiles:
         <a href="https://pabloagn.com">
           <img src="https://img.shields.io/badge/WRITING-f2f2f2?style=flat-square&logo=markdown&logoColor=1a1a1a" alt="Technical Writing"/>
         </a>
-        <p>In-depth articles available at <a href="https://pabloagn.com"><b>pabloagn.com</b></a></p>
-        <p>Explorations of data science, engineering, and computational thinking</p>
+        <p>Technical blog</p>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
         <a href="https://gist.github.com/pabloagn">
-          <img src="https://img.shields.io/badge/CODE_SNIPPETS-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Code Snippets"/>
+          <img src="https://img.shields.io/badge/GITHUB_GISTS-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Code Snippets"/>
         </a>
-        <p>Useful fragments and examples at <a href="https://gist.github.com/pabloagn"><b>GitHub Gists</b></a></p>
-        <p>Practical solutions to common programming challenges</p>
+        <p>Useful fragments and examples</p>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
         <a href="mailto:main@pabloagn.com">
           <img src="https://img.shields.io/badge/CONTACT-f2f2f2?style=flat-square&logo=mail.ru&logoColor=1a1a1a" alt="Contact"/>
         </a>
-        <p>For inquiries or collaboration opportunities</p>
-        <p>Please use the links provided in the header</p>
+        <p>Inquiries or collaboration opportunities</p>
       </td>
     </tr>
   </table>
