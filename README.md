@@ -147,7 +147,7 @@ I work across three main profiles:
     <td width="50%" align="left" valign="middle" style="padding: 16px;">
       <p>PostgreSQL/SQLAlchemy knowledge graph for complex art/media metadata.</p>
       <a href="https://github.com/Phantomklange/phantom-db">
-        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
       </a>
     </td>
   </tr>
@@ -159,7 +159,7 @@ I work across three main profiles:
     <td width="50%" align="left" valign="middle" style="padding: 16px;">
       <p>FastAPI/Celery pipeline converting documents (PDF/OCR → EPUB).</p>
       <a href="https://github.com/Phantomklange/phantom-folio">
-        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
       </a>
     </td>
   </tr>
@@ -171,7 +171,7 @@ I work across three main profiles:
     <td width="50%" align="left" valign="middle" style="padding: 16px;">
       <p>Engine using Sentence Transformers & Qdrant for semantic representation.</p>
       <a href="https://github.com/Phantomklange/phantom-vector">
-        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
       </a>
     </td>
   </tr>
@@ -183,7 +183,7 @@ I work across three main profiles:
     <td width="50%" align="left" valign="middle" style="padding: 16px;">
       <p>RAG-based LLM interface for natural language interaction.</p>
       <a href="https://github.com/Phantomklange/phantom-agent">
-        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
       </a>
     </td>
   </tr>
@@ -195,7 +195,7 @@ I work across three main profiles:
     <td width="50%" align="left" valign="middle" style="padding: 16px;">
       <p>Front-end application for navigating the knowledge suite.</p>
       <a href="https://github.com/Phantomklange/phantom-explorer">
-        <img src="https://img.shields.io/badge/REPOSITORY-1a1a1a?style=flat-square&logo=github&logoColor=f2f2f2" alt="Repository"/>
+        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
       </a>
     </td>
   </tr>
@@ -207,20 +207,34 @@ I work across three main profiles:
 
 ## IV. Further Information
 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="80%">
+    <tr>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/-WRITING-1a1a1a?style=for-the-badge&logo=markdown&logoColor=f2f2f2" alt="Technical Writing"/>
+        <p>In-depth articles available at <a href="https://pabloagn.com"><b>pabloagn.com</b></a></p>
+        <p>Explorations of data science, engineering, and computational thinking</p>
+      </td>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/-CODE SNIPPETS-1a1a1a?style=for-the-badge&logo=github&logoColor=f2f2f2" alt="Code Snippets"/>
+        <p>Useful fragments and examples at <a href="https://gist.github.com/pabloagn"><b>GitHub Gists</b></a></p>
+        <p>Practical solutions to common programming challenges</p>
+      </td>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/-CONTACT-1a1a1a?style=for-the-badge&logo=mail.ru&logoColor=f2f2f2" alt="Contact"/>
+        <p>For inquiries or collaboration opportunities</p>
+        <p>Please use the links provided in the header</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br/>
 <div align="center">───────  §  ───────</div>
 <br/>
 
-<div align="center">
-  <em>"The universe is made of stories, not of atoms." — Muriel Rukeyser</em>
-</div>
-
 <br/>
 
 <div align="center">
-  <img src="path/to/your/footer-image.png" alt="Footer image" width="100%" />
-</div>
-
-<div align="center">
-  <p>Pablo Aguirre © 2025</p>
+  <img src="https://raw.githubusercontent.com/pabloagn/pabloagn/refs/heads/master/assets/footer.png" alt="Footer image" width="100%" />
 </div>
