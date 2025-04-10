@@ -111,10 +111,10 @@ GitHub Gists are a quick and easy way to produce code snippets. I usually create
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=pabloagn&show_icons=true&theme=gruvbox_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Pablo's GitHub Stats" /> -->
 
   <!-- <// Option 2: Transparent Background (Adapts to GitHub's theme) //> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pabloagn&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Pablo's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pabloagn&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Pablo's GitHub Stats" /> -->
 
   <!-- <// Option 3: Minimalist Light Theme (Example: Radical) - Might clash with Dark Mode //> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pabloagn&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Pablo's GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pabloagn&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Pablo's GitHub Stats" />
 
   <!-- <// Option 4: Top Languages Only (More Minimal) //> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloagn&layout=compact&theme=gruvbox_dark&hide_border=true&langs_count=8" alt="Top Languages" /> -->
