@@ -1,3 +1,20 @@
+# Pablo Aguirre
+
+<p align="center">
+  Data Scientist & Engineer | M.Sc. Data Science @ Bristol | Functional Programming, Distributed Systems, AI/ML | Linux & NixOS Enthusiast
+</p>
+
+<p align="center">
+  Exploring the intersections of technology, systems, art, and philosophy. Building robust, elegant solutions for complex problems.
+</p>
+
+<p align="center">
+  <a href="https://pabloagn.com" target="_blank">Website</a> •
+  <a href="https://www.linkedin.com/in/pablo-aguirre-nunez/" target="_blank">LinkedIn</a> •
+  <a href="mailto:main@pabloagn.com">Email</a>
+</p>
+
+
 # About
 Hi, I'm Pablo, a Chemical Engineer, Data Scientist and Linux enthusiast. I like to constantly learn new programming languages, bleeding-edge technologies and technical disciplines and write about them so that people get to know and potentially adopt them as seamlessly as possible.
 
