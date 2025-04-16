@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  Architecting data systems, developing machine learning models, and exploring computation through the lenses of functional programming, systems thinking, and rigorous engineering principles. My work investigates complexity at the intersection of technology, art, and philosophy.
+  Architecting data systems, developing ML models, and exploring computation through functional programming, systems thinking, & engineering principles. My work investigates complexity at the intersection of technology, art, and philosophy.
 </p>
 
 <br/>
@@ -25,9 +25,7 @@
 <div align="center">───────  §  ───────</div>
 <br/>
 
-## I. Domains
-
-My expertise spans the full data lifecycle, with a focus on building scalable, reliable, and intelligent systems.
+## I. Core Technical Domains
 
 <table>
   <tr>
@@ -36,12 +34,12 @@ My expertise spans the full data lifecycle, with a focus on building scalable, r
   <tr>
     <td><b>Architecture & Processing</b></td>
     <td><b>Storage & Infrastructure</b></td>
-    <td><b>Operations</b></td>
+    <td><b>Operations & Delivery</b></td>
   </tr>
   <tr>
-    <td><b>Spark</b> (Scala/Python), <b>Kafka</b>, Flink, <b>Airflow</b>, ClickHouse, Databricks</td>
-    <td>Lakehouse (Delta/Iceberg), Vector DBs (Qdrant), <b>Cloud</b> (AWS/Azure/GCP), IaC (<b>NixOS</b>, Terraform)</td>
-    <td><b>Docker</b>, Kubernetes, Kubeflow, CI/CD, GitOps, Feature Stores, Data Quality/Observability</td>
+    <td><b>Spark</b> (Scala/Python), <b>Kafka</b>, Flink, <b>Airflow</b>/Dagster, ClickHouse, Databricks, dbt</td>
+    <td>Lakehouse (Delta/Iceberg), Vector DBs (Qdrant, etc.), <b>Cloud</b> (AWS/Azure/GCP), IaC (<b>NixOS</b>, Terraform)</td>
+    <td><b>Docker</b>, Kubernetes, Kubeflow, CI/CD for ML, GitOps, Feature Stores, Data Quality/Contracts, Observability, FastAPI</td>
   </tr>
 </table>
 
@@ -55,23 +53,28 @@ My expertise spans the full data lifecycle, with a focus on building scalable, r
     <td><b>Methodology</b></td>
   </tr>
   <tr>
-    <td>TensorFlow, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy</td>
-    <td>NLP (Transformers), Generative AI (LangChain, LLMOps), Optimization, Bayesian Methods</td>
-    <td>Experiment Tracking (MLflow), Versioning (DVC), Production Deployment</td>
+    <td><b>Python</b> (Pandas, NumPy, Scikit-learn, XGBoost), TensorFlow, PyTorch</td>
+    <td>NLP (Transformers), GenAI (LangChain, LLMOps), Optimization, Bayesian Methods, Time Series Analysis, Causal Inference</td>
+    <td>Experiment Tracking (MLflow, W&B), Versioning (DVC), Cloud ML Platforms (SageMaker, Azure ML, Vertex AI)</td>
   </tr>
 </table>
 
 <table>
   <tr>
     <th colspan="2"><b>Programming & Systems</b></th>
+    <th colspan="2"><b>Databases & Visualization</b></th>
   </tr>
   <tr>
     <td><b>Languages</b></td>
     <td><b>Foundations</b></td>
+    <td><b>Databases</b></td>
+    <td><b>Visualization</b></td>
   </tr>
   <tr>
-    <td><b>Python</b>, <b>Scala</b> (Functional Emphasis), <b>Rust</b>, SQL, C++, Bash/Zsh, Haskell, Julia</td>
-    <td>Linux System Administration, Distributed Systems Concepts, Software Design Principles</td>
+    <td><b>Python</b>, <b>Scala</b> (Functional), <b>Rust</b>, SQL, R, Haskell, Julia, Java, JS/TS, Bash/Zsh</td>
+    <td>Linux Systems (NixOS), Distributed Systems Concepts, Software Design</td>
+    <td>PostgreSQL, MySQL, MongoDB, Redis</td>
+    <td>Power BI, Tableau, Superset, D3.js, React</td>
   </tr>
 </table>
 
@@ -82,8 +85,7 @@ My expertise spans the full data lifecycle, with a focus on building scalable, r
 
 ## II. Projects
 
-I work across three main profiles:
-
+### II.I Dev Profiles
 
 <div align="center">
   <table cellspacing="0" cellpadding="0" border="0">
@@ -107,7 +109,7 @@ I work across three main profiles:
         </div>
         <br/>
         <p align="center">
-          Development hub for the <b>Phantom Suite</b>, an integrated personal knowledge management system
+          Development hub for the <a href="https://github.com/Phantomklange/phantom">Phantom</a> project
         </p>
       </td>
       <td width="33%" align="center" valign="top" style="padding: 20px;">
@@ -118,94 +120,29 @@ I work across three main profiles:
         </div>
         <br/>
         <p align="center">
-          Repository organization for technical articles published on <a href="https://pabloagn.com">pabloagn.com</a>
+          Repository organization for technical articles published on <a href="https://pabloagn.com">Sanctum Black</a>
         </p>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-<div align="center">───────  §  ───────</div>
-<br/>
+### II.II Project Pipeline
 
-## III. Spotlight: Phantom Suite
-
-
-<div align="center">
-  <p><em>« An interconnected suite architected to create a unified, queryable digital knowledge base from diverse personal libraries, leveraging advanced data engineering, NLP, and database design. »</em></p>
-</div>
-
-<br/>
-
-<table border="0" align="center" width="100%" cellspacing="10" cellpadding="10">
-  <tr>
-    <td width="50%" align="right" valign="middle" style="padding: 16px;">
-      <h3>Foundation & Storage</h3>
-      <code>phantom-db</code>
-    </td>
-    <td width="50%" align="left" valign="middle" style="padding: 16px;">
-      <p>PostgreSQL/SQLAlchemy knowledge graph for complex art/media metadata.</p>
-      <a href="https://github.com/Phantomklange/phantom-db">
-        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="right" valign="middle" style="padding: 16px;">
-      <h3>Ingestion & Processing</h3>
-      <code>phantom-folio</code>
-    </td>
-    <td width="50%" align="left" valign="middle" style="padding: 16px;">
-      <p>FastAPI/Celery pipeline converting documents (PDF/OCR → EPUB).</p>
-      <a href="https://github.com/Phantomklange/phantom-folio">
-        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="right" valign="middle" style="padding: 16px;">
-      <h3>Semantic Indexing</h3>
-      <code>phantom-vector</code>
-    </td>
-    <td width="50%" align="left" valign="middle" style="padding: 16px;">
-      <p>Engine using Sentence Transformers & Qdrant for semantic representation.</p>
-      <a href="https://github.com/Phantomklange/phantom-vector">
-        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="right" valign="middle" style="padding: 16px;">
-      <h3>Query Interface</h3>
-      <code>phantom-agent</code>
-    </td>
-    <td width="50%" align="left" valign="middle" style="padding: 16px;">
-      <p>RAG-based LLM interface for natural language interaction.</p>
-      <a href="https://github.com/Phantomklange/phantom-agent">
-        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="right" valign="middle" style="padding: 16px;">
-      <h3>Exploration UI</h3>
-      <code>phantom-explorer</code>
-    </td>
-    <td width="50%" align="left" valign="middle" style="padding: 16px;">
-      <p>Front-end application for navigating the knowledge suite.</p>
-      <a href="https://github.com/Phantomklange/phantom-explorer">
-        <img src="https://img.shields.io/badge/REPOSITORY-f2f2f2?style=flat-square&logo=github&logoColor=1a1a1a" alt="Repository"/>
-      </a>
-    </td>
-  </tr>
-</table>
+| Project                                  | Description                                                                                                                                                              | Key Technologies                                                              |
+| :----------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
+| **Phantom Suite** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/Phantomklange/phantom) ![Status](https://img.shields.io/badge/Status-Active-38b2ac?style=flat-square) | A **12-module system** designed to build an **open, queryable repository** of **validated canonical works**, **countering disinformation** through **expert curation**. Employs a **robust data pipeline** (**NixOS/Docker** orchestration, **NLP/Sentence Transformers** processing, **PostgreSQL/Qdrant** storage) exposed via **FastAPI**, enabling **advanced textual analysis** and **knowledge discovery**.  | **NixOS**, Docker, **Python**, FastAPI, PostgreSQL, **Qdrant**, **Sentence Transformers**, React, Celery, Airflow |
+| **NixOS Declarative System** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/pabloagn/nixos-dotfiles) ![Status](https://img.shields.io/badge/Status-Active-38b2ac?style=flat-square) | **Modular, reproducible** NixOS configuration using **Flakes** and **Home Manager**, providing a **script-deployable** dev environment demonstrating **IaC practices**.      | **NixOS**, **Nix Flakes**, **Home Manager**, Shell Scripting, SOPS                        |
+| **Sentiment Analysis GUI** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/sanctum-black/portfolio-projects/tree/master/data-science/sentiment-analysis-with-python) ![Status](https://img.shields.io/badge/Status-Completed-718096?style=flat-square) | **Desktop GUI application** enabling **customizable, bulk sentiment analysis**; integrated **multiple algorithms** (**NLTK**, **Transformers**) and **visualization options**.           | Python, **NLTK**, **Transformers**, Tkinter                                         |
+| **Targeted Lung Cancer EDA** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/sanctum-black/guided-projects/tree/master/data-science/exploratory-data-analysis) ![Status](https://img.shields.io/badge/Status-Completed-718096?style=flat-square) | Focused **exploratory data analysis** on **lung cancer risk factors** to identify **key predictors** and **influential data patterns** using Python data science libraries. | Python, **Pandas**, **Seaborn**, **Scikit-learn**                                       |
+| **Sanctum Black Tech Blog** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/Sanctum-Black) ![Status](https://img.shields.io/badge/Status-Ongoing-4c51bf?style=flat-square) [![Live Site](https://img.shields.io/badge/Live-Site-38a169?style=flat-square)](https://pabloagn.com) | Technical blog focused on **practical implementations** in **Statistics**, **Programming**, and **Scientific Computing**; manage **CI/CD pipeline** for deployment. | **Hugo**, **GitHub Actions**, Netlify, SCSS                                         |
 
 <br/>
 <div align="center">───────  §  ───────</div>
 <br/>
 
-## IV. Further Information
+
+## III. Further Information
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" width="80%">
