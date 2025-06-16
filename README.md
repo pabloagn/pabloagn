@@ -103,17 +103,6 @@
       </td>
       <td width="33%" align="center" valign="top" style="padding: 20px;">
         <div>
-          <a href="https://github.com/Phantomklange">
-            <img src="https://img.shields.io/badge/GITHUB-PHANTOMKLÄNGE-2C2D30?style=flat-square&logo=github&logoColor=white" alt="Phantomklänge" />
-          </a>
-        </div>
-        <br/>
-        <p align="center">
-          Development hub for the <a href="https://github.com/Phantomklange/phantom">Phantom</a> project
-        </p>
-      </td>
-      <td width="33%" align="center" valign="top" style="padding: 20px;">
-        <div>
           <a href="https://github.com/Sanctum-Black">
             <img src="https://img.shields.io/badge/GITHUB-SANCTUM.BLACK-2C2D30?style=flat-square&logo=github&logoColor=white" alt="Sanctum.Black" />
           </a>
@@ -131,7 +120,7 @@
 
 | Project                                  | Description                                                                                                                                                              | Key Technologies                                                              |
 | :----------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
-| **Phantom Suite** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/Phantomklange/phantom) ![Status](https://img.shields.io/badge/Status-Active-38b2ac?style=flat-square) | A **12-module system** designed to build an **open, queryable repository** of **validated canonical works**, **countering disinformation** through **expert curation**. Employs a **robust data pipeline** (**NixOS/Docker** orchestration, **NLP/Sentence Transformers** processing, **PostgreSQL/Qdrant** storage) exposed via **FastAPI**, enabling **advanced textual analysis** and **knowledge discovery**.  | **NixOS**, Docker, **Python**, FastAPI, PostgreSQL, **Qdrant**, **Sentence Transformers**, React, Celery, Airflow |
+| **Phantom Suite** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/pabloagn/phantom) ![Status](https://img.shields.io/badge/Status-Active-38b2ac?style=flat-square) | A **12-module system** designed to build an **open, queryable repository** of **validated canonical works**, **countering disinformation** through **expert curation**. Employs a **robust data pipeline** (**NixOS/Docker** orchestration, **NLP/Sentence Transformers** processing, **PostgreSQL/Qdrant** storage) exposed via **FastAPI**, enabling **advanced textual analysis** and **knowledge discovery**.  | **NixOS**, Docker, **Python**, FastAPI, PostgreSQL, **Qdrant**, **Sentence Transformers**, React, Celery, Airflow |
 | **NixOS Declarative System** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/pabloagn/nixos-dotfiles) ![Status](https://img.shields.io/badge/Status-Active-38b2ac?style=flat-square) | **Modular, reproducible** NixOS configuration using **Flakes** and **Home Manager**, providing a **script-deployable** dev environment demonstrating **IaC practices**.      | **NixOS**, **Nix Flakes**, **Home Manager**, Shell Scripting, SOPS                        |
 | **Sentiment Analysis GUI** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/sanctum-black/portfolio-projects/tree/master/data-science/sentiment-analysis-with-python) ![Status](https://img.shields.io/badge/Status-Completed-718096?style=flat-square) | **Desktop GUI application** enabling **customizable, bulk sentiment analysis**; integrated **multiple algorithms** (**NLTK**, **Transformers**) and **visualization options**.           | Python, **NLTK**, **Transformers**, Tkinter                                         |
 | **Targeted Lung Cancer EDA** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/sanctum-black/guided-projects/tree/master/data-science/exploratory-data-analysis) ![Status](https://img.shields.io/badge/Status-Completed-718096?style=flat-square) | Focused **exploratory data analysis** on **lung cancer risk factors** to identify **key predictors** and **influential data patterns** using Python data science libraries. | Python, **Pandas**, **Seaborn**, **Scikit-learn**                                       |
