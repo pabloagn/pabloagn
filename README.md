@@ -165,5 +165,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pabloagn/pabloagn/refs/heads/master/assets/footer.png" alt="Footer image" width="100%" />
+  <img src="./assets/footer.png" alt="Footer image" width="100%" />
 </div>
