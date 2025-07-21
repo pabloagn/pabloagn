@@ -3,6 +3,10 @@
   <p>Chemical Engineer │ M.Sc. Data Science │ NixOS Developer</p>
 </div>
 
+<br/>
+<div align="center">───────  §  ───────</div>
+<br/>
+
 <p align="center">
   Interested in designing, developing & deploying reliable systems, exploring computation through statistical theory, functional programming & engineering principles.
 </p>
