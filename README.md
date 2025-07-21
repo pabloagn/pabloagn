@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Pablo Aguirre</h1>
-  <p>Data Scientist & Engineer │ M.Sc. Data Science │ Linux - NixOS</p>
+  <p>Chemical Engineer │ M.Sc. Data Science │ NixOS Developer</p>
 </div>
 
 <p align="center">
