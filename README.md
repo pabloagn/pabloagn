@@ -107,7 +107,7 @@
       </td>
       <td width="33%" align="center" valign="top" style="padding: 20px;">
         <div>
-          <a href="https://github.com/Sanctum-Black">
+          <a href="https://github.com/pabloagn/personal-website">
             <img src="https://img.shields.io/badge/GITHUB-SANCTUM.BLACK-2C2D30?style=flat-square&logo=github&logoColor=white" alt="Sanctum.Black" />
           </a>
         </div>
