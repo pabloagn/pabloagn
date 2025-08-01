@@ -153,7 +153,7 @@
         <p>Useful fragments and examples</p>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
-        <a href="mailto:main@pabloagn.com">
+        <a href="https://pabloagn/contact">
           <img src="https://img.shields.io/badge/CONTACT-f2f2f2?style=flat-square&logo=mail.ru&logoColor=1a1a1a" alt="Contact"/>
         </a>
         <p>Inquiries or collaboration opportunities</p>
