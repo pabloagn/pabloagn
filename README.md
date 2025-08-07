@@ -29,7 +29,14 @@
 <div align="center">───────  §  ───────</div>
 <br/>
 
-![Languages](https://badges-jbq57c88b-pablos-projects-f712375e.vercel.app/cards/languages.png)
+
+<div align="center">
+    <div id="images">
+        <p style="text-align:center;">
+        <a href="https://pabloagn.com/">
+        <img src="https://badges-jbq57c88b-pablos-projects-f712375e.vercel.app/cards/languages.png"/></a>
+    </div>
+</div>
 
 ## I. Core Technical Domains
 
