@@ -1,15 +1,11 @@
 <div align="center">
   <h1>Pablo Aguirre</h1>
-  <p>Chemical Engineer │ M.Sc. Data Science │ NixOS Crackhead</p>
+  <p>Chemical Engineer │ M.Sc. Data Science │ NixOS Developer</p>
 </div>
 
 <br/>
 <div align="center">───────  §  ───────</div>
 <br/>
-
-<p align="center">
-    When it comes to tech, there are three things I appreciate the most: Declarative configs, functional programming, & efficient code.
-</p>
 
 <br/>
 
@@ -25,8 +21,8 @@
     </div>
 </div>
 
-<br/>
-<div align="center">───────  §  ───────</div>
+## I. Core Technical Domains
+
 <br/>
 
 <div align="center">
@@ -38,18 +34,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-    <div id="images">
-        <p style="text-align:center;">
-        <a href="https://pabloagn.com/">
-        <img src="https://badges-kappa-dun.vercel.app/cards/last_commit.svg"/></a>
-    </div>
-</div>
-
-<br/>
-
-## I. Core Technical Domains
 
 <table>
   <tr>
