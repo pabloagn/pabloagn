@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Pablo Aguirre</h1>
-  <p>Chemical Engineer │ M.Sc. Data Science │ NixOS Developer</p>
+  <p>Chemical Engineer │ M.Sc. Data Science │ NixOS Crackhead</p>
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  Interested in designing, developing & deploying reliable systems, exploring computation through statistical theory, functional programming & engineering principles.
+    When it comes to tech, there are three things I appreciate the most: Declarative configs, functional programming, & efficient code. I'm OK living my entire life doing these 3.
 </p>
 
 <br/>
@@ -28,6 +28,8 @@
 <br/>
 <div align="center">───────  §  ───────</div>
 <br/>
+
+![Languages](https://badges-7ga2sg7cz-pablos-projects-f712375e.vercel.app/cards/languages.png)
 
 ## I. Core Technical Domains
 
