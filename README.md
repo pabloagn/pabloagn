@@ -29,7 +29,7 @@
 <div align="center">───────  §  ───────</div>
 <br/>
 
-![Languages](https://badges-7ga2sg7cz-pablos-projects-f712375e.vercel.app/cards/languages.png)
+![Languages](https://badges-jbq57c88b-pablos-projects-f712375e.vercel.app/cards/languages.png)
 
 ## I. Core Technical Domains
 
