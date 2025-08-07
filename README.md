@@ -34,7 +34,7 @@
     <div id="images">
         <p style="text-align:center;">
         <a href="https://pabloagn.com/">
-        <img src="https://badges-jbq57c88b-pablos-projects-f712375e.vercel.app/cards/languages.png"/></a>
+        <img src="https://badges-kappa-dun.vercel.app/cards/languages.png"/></a>
     </div>
 </div>
 
