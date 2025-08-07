@@ -34,6 +34,8 @@
 </div>
 
 <br/>
+<div align="center">───────  §  ───────</div>
+<br/>
 
 <table>
   <tr>
@@ -86,10 +88,6 @@
   </tr>
 </table>
 
-<br/>
-<div align="center">───────  §  ───────</div>
-<br/>
-
 ## II. Projects
 
 | Project                                                                                                                                                                                                                                                                                                                                          | Description                                                                                                                                                                                                                                                                                                                                                                                                       | Key Technologies                                                                                                                                                                                                                                                 |
@@ -100,10 +98,6 @@
 | **Sentiment Analysis GUI** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/sanctum-black/portfolio-projects/tree/master/data-science/sentiment-analysis-with-python) ![Status](https://img.shields.io/badge/Status-Completed-718096?style=flat-square)                           | **Desktop GUI application** enabling **customizable, bulk sentiment analysis**; integrated **multiple algorithms** (**NLTK**, **Transformers**) and **visualization options**.                                                                                                                                                                                                                                    | Python, **NLTK**, **Transformers**, Tkinter                                                                                                                                                                                                                      |
 | **Targeted Lung Cancer EDA** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/sanctum-black/guided-projects/tree/master/data-science/exploratory-data-analysis) ![Status](https://img.shields.io/badge/Status-Completed-718096?style=flat-square)                                 | Focused **exploratory data analysis** on **lung cancer risk factors** to identify **key predictors** and **influential data patterns** using Python data science libraries.                                                                                                                                                                                                                                       | Python, **Pandas**, **Seaborn**, **Scikit-learn**                                                                                                                                                                                                                |
 | **Sanctum Black Tech Blog** <br/> [![Repo](https://img.shields.io/badge/Repo-GitHub-grey?style=flat-square&logo=github)](https://github.com/Sanctum-Black) ![Status](https://img.shields.io/badge/Status-Ongoing-4c51bf?style=flat-square) [![Live Site](https://img.shields.io/badge/Live-Site-38a169?style=flat-square)](https://pabloagn.com) | Technical blog focused on **practical implementations** in **Statistics**, **Programming**, and **Scientific Computing**; manage **CI/CD pipeline** for deployment.                                                                                                                                                                                                                                               | **Hugo**, **GitHub Actions**, Netlify, SCSS                                                                                                                                                                                                                      |
-
-<br/>
-<div align="center">───────  §  ───────</div>
-<br/>
 
 ## III. Further Information
 
@@ -131,10 +125,6 @@
     </tr>
   </table>
 </div>
-
-<br/>
-<div align="center">───────  §  ───────</div>
-<br/>
 
 <br/>
 
